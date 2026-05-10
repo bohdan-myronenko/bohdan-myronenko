@@ -70,20 +70,6 @@ I'm a budding Java developer with a growing interest in AI, cybersecurity, and b
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bohdan-myronenko&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bohdan-myronenko&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bohdan-myronenko&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=bohdan-myronenko&theme=flat&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 🐍 Contribution Graph
